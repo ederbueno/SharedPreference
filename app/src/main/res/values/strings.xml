@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="view_name">Mostrar nome?</string>
+    <string name="view_key">Mostrar Matricula</string>
+    <string name="profile">Profile</string>
+    <string name="back_button">Voltar</string>
+</resources>
